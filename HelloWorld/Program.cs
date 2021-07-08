@@ -15,6 +15,8 @@ namespace HelloWorld
             cr.Area();
             DivisibleBy3 dvobj = new DivisibleBy3();
             dvobj.DivBy3();
+            Levels levelsObj = new Levels();
+            levelsObj.Levels3();
 
         }
     }
