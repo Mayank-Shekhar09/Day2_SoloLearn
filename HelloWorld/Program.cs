@@ -13,6 +13,9 @@ namespace HelloWorld
             Console.WriteLine("C# is cool");
             CircleArea cr = new CircleArea();
             cr.Area();
+            DivisibleBy3 dvobj = new DivisibleBy3();
+            dvobj.DivBy3();
+
         }
     }
 }
