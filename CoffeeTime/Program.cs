@@ -27,7 +27,7 @@ namespace CoffeeTime
                 Console.WriteLine(entry.Key + ": " + (entry.Value - entry.Value * discount / 100));
 
             }
-
+            
 
         }
     }
